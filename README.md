@@ -10,4 +10,4 @@ Follow the steps below to use:
 4. grunt bower cssmin uglify
 
 Now you have node_modules, bower_components and wwwroot folder on your project.
-The Gruntfile.js is the main file, which will manage all actions on your project.
+You are free to edit bower.json, packages.json and Gruntfile.js
