@@ -10,8 +10,9 @@ Follow the steps below to use:
 4. grunt bower cssmin uglify
 
 Or try all at one time:
-
+```code
 git clone https://github.com/andrebaltieri/ng-start/ "YOUR_APP_HERE" && cd "YOUR_APP_HERE" && npm install && grunt bower cssmin uglify
+```
 
 Now you have node_modules, bower_components and wwwroot folder on your project.
 You are free to edit bower.json, packages.json and Gruntfile.js
