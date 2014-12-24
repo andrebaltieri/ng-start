@@ -11,3 +11,5 @@ Follow the steps below to use:
 
 Now you have node_modules, bower_components and wwwroot folder on your project.
 You are free to edit bower.json, packages.json and Gruntfile.js
+
+The wwwroot contais a assets folder, with minified CSS and uglified/minified JavaScripts
